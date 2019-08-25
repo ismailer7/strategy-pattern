@@ -2,7 +2,7 @@ public class HobbitAction {
 
     OrcKillerStrategy hobbitStrategy;
 
-    public OrcKiller(OrcKillerStrategy hobbitStrategy) {
+    public HobbitAction(OrcKillerStrategy hobbitStrategy) {
         this.hobbitStrategy = hobbitStrategy;
     }
 
